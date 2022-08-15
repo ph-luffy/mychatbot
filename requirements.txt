@@ -1,3 +1,4 @@
+fbchat
 git+https://github.com/carpedm20/fbchat.git
 wolframalpha
 requests
