@@ -1,4 +1,4 @@
-from fbchat import Client, log, _graphql
+from fbchat import Client, _graphql
 from fbchat.models import *
 import json
 import random
